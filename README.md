@@ -5,7 +5,7 @@
 ## About
 
 Anaglyph Generator in x86-64bit assembly in the format Intel for nasm.
-Creates an anaglyph from two images of an stereogram, using a color algorithm or a mono algorithm.
+Creates an anaglyph from two images of a stereogram, using a color algorithm or a mono algorithm.
 
 ## Learned
  - x86-64bit assembly in the format Intel for nasm
