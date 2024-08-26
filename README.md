@@ -16,10 +16,10 @@ Creates an anaglyph from two images of a stereogram, using a color algorithm or 
 ## Operations
 
 ```bash
-   ./Anaglifo C [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
+   ./Anaglyph C [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
 ```
 ```bash
-   ./Anaglifo M [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
+   ./Anaglyph M [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
 ```
 
 
@@ -33,7 +33,7 @@ Creates an anaglyph from two images of a stereogram, using a color algorithm or 
    nasm -F dwarf -f elf64 Anaglyph-Generator.asm
 ```
 ```bash
-   ld Anaglyph-Generator.o Biblioteca.o -o Anaglifo
+   ld Anaglyph-Generator.o Biblioteca.o -o Anaglyph
 ```
 
 
@@ -41,9 +41,9 @@ Creates an anaglyph from two images of a stereogram, using a color algorithm or 
 ## Execution
 
 ```bash
-   ./Anaglifo C [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
+   ./Anaglyph C [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
 ```
 ```bash
-   ./Anaglifo M [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
+   ./Anaglyph M [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
 ```
  
