@@ -12,16 +12,6 @@ Creates an anaglyph from two images of a stereogram, using a color algorithm or 
  - BMP format, visualization and manipulation
  - COLOR and MONO algorithms for anaglyph generation
 
----
-## Operations
-
-```bash
-./Anaglyph C [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
-```
-```bash
-./Anaglyph M [left_image.bmp] [right_image.bmp] [final_anaglyph_desired_name.bmp]
-```
-
 
 ---
 ## Compilation
