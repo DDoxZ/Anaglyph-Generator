@@ -1,3 +1,5 @@
+![Project IMG](Anaglyph.png)
+
 # Anaglyph-Generator
 
 ## Computer Systems Architecture Project
