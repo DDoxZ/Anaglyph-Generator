@@ -1,6 +1,6 @@
-![Project IMG](Anaglyph.png)
-
 # Anaglyph-Generator
+
+![Project IMG](Anaglyph.png)
 
 ## Computer Systems Architecture Project
 
